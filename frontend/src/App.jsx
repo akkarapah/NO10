@@ -89,7 +89,7 @@ function App() {
     return (
       <div className="quiz-container" style={{ maxWidth: '800px', margin: '0 auto' }}>
         <div className="quiz-header" style={{ backgroundColor: '#28a745', color: 'white', padding: '10px', textAlign: 'center' }}>
-          <h2>IT Quiz</h2>
+          <h2>IT 10-2</h2>
         </div>
         <div className="quiz-content" style={{ padding: '20px', border: '1px solid #ccc', position: 'relative' }}>
           <div style={{ marginBottom: '20px' }}>
@@ -154,7 +154,7 @@ function App() {
   return (
     <div className="quiz-container" style={{ maxWidth: '800px', margin: '0 auto' }}>
       <div className="quiz-header" style={{ backgroundColor: '#28a745', color: 'white', padding: '10px', textAlign: 'center' }}>
-        <h2>IT Quiz</h2>
+        <h2>IT 10-1</h2>
       </div>
       <div className="quiz-content" style={{ padding: '20px', border: '1px solid #ccc' }}>
         <div style={{ marginBottom: '20px' }}>
